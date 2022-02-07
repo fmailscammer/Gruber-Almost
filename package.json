@@ -1,0 +1,22 @@
+{
+    "name": "gruber-almost",
+    "displayName": "Gruber Almost",
+    "description": "Modified port of Gruber Darker https://github.com/rexim/gruber-darker-theme",
+    "icon": "icon.png",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gruber (Almost) Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gruber Almost (dark)-color-theme.json"
+            }
+        ]
+    }
+}
