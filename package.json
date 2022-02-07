@@ -3,6 +3,7 @@
     "displayName": "Gruber Almost",
     "description": "Modified port of Gruber Darker https://github.com/rexim/gruber-darker-theme",
     "icon": "icon.png",
+    "repository": "https://github.com/fmailscammer/Gruber-Almost",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.64.0"
