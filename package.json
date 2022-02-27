@@ -5,6 +5,7 @@
     "icon": "icon.png",
     "repository": "https://github.com/fmailscammer/Gruber-Almost.git",
     "version": "0.0.1",
+    "publisher": "fmailscammer",
     "engines": {
         "vscode": "^1.64.0"
     },

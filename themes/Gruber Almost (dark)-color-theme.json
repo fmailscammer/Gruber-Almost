@@ -1823,13 +1823,6 @@
       }
     },
     {
-      "name": "comment",
-      "scope": "comment.line.double-slash,comment.block.documentation",
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
       "name": "markup.italic.markdown",
       "scope": "markup.italic.markdown",
       "settings": {
