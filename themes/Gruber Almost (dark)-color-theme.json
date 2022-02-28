@@ -1789,7 +1789,6 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#cc8c3c"
       }
     },
